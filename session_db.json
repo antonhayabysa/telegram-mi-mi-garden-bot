@@ -1,0 +1,17 @@
+{
+  "sessions": [
+    {
+      "id": "305515622:305515622",
+      "data": {
+        "expectFeedback": false,
+        "userLanguage": "en"
+      }
+    },
+    {
+      "id": "800037459:800037459",
+      "data": {
+        "expectFeedback": false
+      }
+    }
+  ]
+}
